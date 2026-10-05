@@ -1,0 +1,7 @@
+order_id,customer,product,quantity,price
+1001,Ana,Laptop,1.0,850
+1002,Carlos,Mouse,2.0,25
+1003,Lucia,Keyboard,1.0,60
+1004,Javier,Monitor,0.0,220
+1005,Unknown,Mouse,3.0,25
+1006,Marta,Laptop,1.0,850
